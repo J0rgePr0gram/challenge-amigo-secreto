@@ -13,4 +13,4 @@ Esta es una aplicación simple de **Amigo Secreto** desarrollada con **HTML**, *
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/tu-usuario/challenge-amigo-secreto.git
